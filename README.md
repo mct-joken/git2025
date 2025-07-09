@@ -1,15 +1,7 @@
-# Elysia with Bun runtime
-
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
-
-## Development
-To start the development server run:
-```bash
+# 情研/プロコンGit・GitHub講座2025
+## 動かす
+```sh
+bun i
 bun run dev
 ```
-
-Open http://localhost:3000/ with your browser to see the result.
+`http://localhost:3000/public/`内にあります
